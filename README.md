@@ -1,21 +1,18 @@
 
-I am **Ahmed** a coder from algeria and this is my github page
+My name is Ahmed, a developer from Algeria, and this is my GitHub page.
 
-Here you can see some of the projects i am working on! ways to contact me, and some other cool coders i work with.
+Here, you can explore some of the projects I'm working on, find ways to contact me, and meet other talented developers I collaborate with.
 
-### Link to my Coding buddies Profile pages on github:
+Links to my coding buddies' GitHub profiles:
 
-- [abdellah](https://github.com/iamabdo)
-- [WALID](https://github.com/waliid17)
-- [Chaouki]()
+Abdellah
+Walid
+Chaouki
+📫 You can reach me at:
 
-### 📫 You can contact me by:
-
-- Using Email on: senoucinaser8@gmail.com
-- Using Discord [snoupi8](https://discordapp.com/users/442928888092557312)
-
-
-### Hi there 👋
+Email: senoucinaser8@gmail.com
+Discord: snoupi8
+Hello there 👋
 
 <!--
 **snou88/snou88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
